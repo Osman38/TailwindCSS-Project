@@ -4,7 +4,7 @@
 
 @layer base {
     *{
-        @apply text-themeColor
+        @apply text-themeColor box-border
     }
 
     body apply {
